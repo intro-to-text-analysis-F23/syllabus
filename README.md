@@ -12,7 +12,7 @@
 
 **Class time:** TBD
 
-**Office hours:** By appointment only
+**Office hours:** By appointment only - schedule here
 
 
 ---
