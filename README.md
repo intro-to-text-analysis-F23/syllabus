@@ -160,13 +160,14 @@ This week, we will learn the command line, which is a way of interacting with yo
     - What is the command line and why is it relevant to Python?
     - Using git bash (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
+    - Django Girls, ["Introduction to the command-line interface"](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 - Assignments (due by 10am on the day of class): 
     - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R)  (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
         - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/)
         - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
         - DHRI: ["Introduction to the Command Line"](https://gc-dri.github.io/Dhrift-GC/workshops/command-line/)
         - The Launch School: [Introduction to the Command Line](https://launchschool.com/books/command_line/read/introduction)
     - Cheat sheets:
