@@ -217,23 +217,21 @@ This week, we will continue our exploration of Python basics.
         - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
       
 
-**Week 5 (): Principles of data analysis: Data wrangling, cleaning, analysis, and visualization with the Pandas and Plotly Libraries**
+**Week 5 (): Principles of data analysis: Data Manipulation with Pandas**
 
 This week, we will review the principles of data wrangling, cleaning, analysis, and visualization. Wrangling is the process of transforming data from a raw format into one that is legible. Cleaning entails making sure our data does not include inconsistencies such as duplicate entries or information stored in the wrong format. Analysis and visualizations are ways of telling a story with the data, and uncovering insights that may lead to new research questions. 
 
-We will be using the Pandas and Plotly Python libraries to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas and Plotly that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. Plotly is a data visualization library. 
+We will be using the Pandas Pythin library to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. 
 
 
 - Topics covered:
     - Working with tabular data (a.k.a., spreadsheets)
     - The data process: wrangling, cleaning, analysis, and visualization
     - Pandas basics
-    - Plotly basics
 - Curriculum for this session:
-    - Rebecca Krisel's [Intro to Pandas](https://gc-dri.github.io/Dhrift-GC/workshops/pandas/)
+    - Rebecca Krisel's [Intro to Pandas](https://gist.github.com/rskrisel/407561c530657f275dc728a753c784b0)
       - Download dataset [here](https://drive.google.com/drive/folders/17cAPHux4ileepqNce_5FdYoQaopK3wO5)
-      - Download Jupyter Notebook [here](https://drive.google.com/drive/folders/1wWfkCOdx_ynex7W9Q_hh-WvSdM2wy3kB)
-    - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
+    
     
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
@@ -297,8 +295,6 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
 
 **Week 8 (): Data collection: Working with APIs**
 
-
-
 This week, we will learn how to make data requests from an Application Programming Interface (API). APIs allow users to programmatically extract and interact with data under the hood of websites, social networks, applications, and projects. For example, the weather app on your phone connects to the weather bureau's API system, which contains daily weather data, and shows you daily weather updates. We will specifically work with the free version of News API for collecting news data. 
 
 - Topics covered:
@@ -337,6 +333,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
     - Rebecca Krisel, [Working with YouTube Data]()
+    - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Additional readings/resources (not required, but useful!):
