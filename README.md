@@ -10,7 +10,7 @@
 
 **Email:** [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu)
 
-**Class time:** TBD
+**Class time:** Wednesdays 9:00 - 10:50
 
 **Office hours:** By appointment only - schedule here
 
@@ -67,32 +67,24 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 
 Homework assignments:
-- There are 12 homework assignments, each worth 10 points. You only need to complete 10 out of the 12 homework assignments. You cannot skip the assignments for weeks 2 & 4. 
+- There are 11 homework assignments, each worth 10 points. I will drop your lowest grade, so just 10 assignments will count towards your final grade. **Week 4 assignment is mandatory** 
 - **Each homework assignment is due by 10am before the start of class**. 
-    - Due week 2: 
-        - Installations of Visual Studio Code, Git and Gitbash, Python and Anaconda (see below for installation instructions).
-             - [Upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) your screenshots to [this assignment](https://classroom.github.com/a/YGYm6NLc). 
     - Due week 4: 
         - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)
     - Due weeks 5 - 14: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
    
 <br> 
-Final:
+Final research project:
 <br> 
 
-For the final assignment, you have two options to select from:
-- A two-hour, fast-paced, open-book final exam scheduled during exam week
-- A final research project, due week 14
 
-Complete [this survey](https://forms.gle/XseHoj1jyzHHtDBd9) to select your preference for the final assignment. *You must let me know by week 4 (2/9) which final assignment you plan on doing. You will not be allowed to change your mind after that date.* 
-
-For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
+For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
-    - Due week 4 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
+    - Due week 5 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
     - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
-     - Due week 14 (65 points): Final project **due by 10am before the start of class.**
-     - Due week 14 (5 bonus points): In-class project presentations. 
+    - Due week 13 (65 points): Final project **due by 10am before the start of class.**
+    - Due week 13/14 (5 bonus points): In-class project presentations. 
 
      <br>
 
@@ -101,17 +93,14 @@ For the final research project, you will pair a method of data collection with a
 
 - Class participation 10%
 - Homework assignments 40%
-- Final exam or research project 50%
+- Research project 50%
 
 <br>
 
 ## Python Tech Requirements & Installations 
 
-Bringing a laptop computer to class is a requirement for this course. By week 2, you must have installed the following (free) software applications (follow the links for installation instructions):
+Bringing a laptop computer to class is a requirement for this course. 
 
-- Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/))
-- Git and Gitbash ([macOS](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/git-and-git-bash/windows/))
-- Python and Anaconda ([macOs](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
 
 ## Class Slack Space
 To facilitate communication, I created this [Slack space](). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
@@ -142,6 +131,7 @@ This week, we will review the syllabus and the course objectives. We will also d
     - What are some practical applications of text analysis in Python?
     - Course structure and objectives
     - Getting the most out of this class
+    - Using GitHub & GitHub classroom
     - Final projects
 
 - Requirement in two steps: 
@@ -152,47 +142,47 @@ This week, we will review the syllabus and the course objectives. We will also d
         - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
 
 
-**Week 2 (): The Command Line**
+**Week 2 (): The Command Line + Introduction to Git and Github**
 
 This week, we will learn the command line, which is a way of interacting with your computer without using your mousepad to complete tasks. For example, instead of manually creating a new folder, we will learn how to do that by typing a command. Knowing how to use the command line is an important first step towards learning how to program in Python. 
 
+We will also learn how to use Github, which is an industry-standard tool for collaborative and individual projects. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments. Having a GitHub page with evidence of your programming work can serve as a data science portfolio when applying for jobs.
+
+
 - Topics covered:
     - What is the command line and why is it relevant to Python?
-    - Using git bash (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
+    - Using command prompt (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
+    - What is Github? Why is it important for data science?
+    - How to use Github for collaboration?
+    - How to create a Github repository? 
 - Curriculum for this session:
     - Django Girls, ["Introduction to the command-line interface"](https://tutorial.djangogirls.org/en/intro_to_command_line/)
+    - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
 - Assignments (due by 10am on the day of class): 
-    - Install the following software packages and upload your screenshots to [this assignment](https://classroom.github.com/a/CQ-gPy_R)  (see [here](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) for instructions on uploading files to GitHub):
-        - Visual Studio Code ([macOS](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/macos/) / [Windows](https://curriculum.dhinstitutes.org/installations/microsoft-visual-studio-code/windows/)
-        - Python and Anaconda ([macOS](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/macos/)/[Windows](https://curriculum.dhinstitutes.org/installations/python-and-anaconda/windows/))
+    - No assignments this week!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
         - DHRI: ["Introduction to the Command Line"](https://gc-dri.github.io/Dhrift-GC/workshops/command-line/)
         - The Launch School: [Introduction to the Command Line](https://launchschool.com/books/command_line/read/introduction)
+        - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
+        - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
     - Cheat sheets:
         - Tower: [The Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
         - Clay Cooper: [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 
-**Week 3 (): Introduction to Git and Github + Python Basics I**
-
-This week, we will learn how to use Git and Github, which are powerful tools for collaborative and individual projects. Git is a version control software that aids with tracking changes made to a set of files over time. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments with me. Having a GitHub page with evidence of your programming work can serve as a programming portfolio when applying for jobs. 
+**Week 3 (): Python Basics**
 
 We will also get started with learning some basic Python commands. We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
 
 - Topics covered:
-    - What are Git and Github?
-    - How to use Git for version control?
-    - How to download and update a Github repository? 
-    - Python and Jupyter Notebook basics
+    - 
 - Curriculum for this session:
-    - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to Use Jupyter Notebooks - Files & Character Encoding)
 - Assignments (due by 10am on the day of class):
-    - NO ASSIGNMENTS THIS WEEK!
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
-        - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
      
@@ -208,10 +198,8 @@ This week, we will continue our exploration of Python basics.
 - Curriculum for this session:
     - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Comparisons & Conditionals - [Files & Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/14-What-Were-Not-Covering.html))
 - Assignments (due by 10am on the day of class):
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
-    - Complete [this survey](https://forms.gle/YPfWEBGRG6TiFYDP9) to select your preference for the final assignment.
-- Final project deliverable:
-    - Schedule a meeting with me [here]() to discuss ideas for your final research project, if you are selecting the research project as your final assignment
+
+
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (loops - objects)
@@ -236,6 +224,8 @@ We will be using the Pandas Pythin library to help us achieve our data processin
     
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Final project deliverable:
+    - Schedule a meeting with me [here]() to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
