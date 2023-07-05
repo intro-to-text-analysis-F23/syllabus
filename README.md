@@ -81,10 +81,10 @@ Final research project:
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
-    - Due week 5 (10 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
+    - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
     - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
     - Due week 13 (65 points): Final project **due by 10am before the start of class.**
-    - Due week 13/14 (5 bonus points): In-class project presentations. 
+    - Due week 13/14 (5 points): In-class project presentations. 
 
      <br>
 
