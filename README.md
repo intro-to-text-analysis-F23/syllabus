@@ -178,13 +178,13 @@ We will also get started with learning some basic Python commands. We will be us
 - Topics covered:
     - 
 - Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (How to Use Jupyter Notebooks - Files & Character Encoding)
+    - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
 - Assignments (due by 10am on the day of class):
     - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)
-        - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
+        -  Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
      
 
 **Week 4 (): Python Basics II**
