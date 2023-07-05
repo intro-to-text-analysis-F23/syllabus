@@ -121,7 +121,7 @@ Slack download: ([macOS](https://slack.com/downloads/mac) / [Windows](https://sl
 
 ## Class Schedule & Curricula
 
-**Week 1 (): Introductions & course overview**
+**Week 1 (9/6): Introductions & course overview**
 
 This week, we will review the syllabus and the course objectives. We will also discuss what Python is and how it can be used for text analysis. 
 
@@ -142,7 +142,7 @@ This week, we will review the syllabus and the course objectives. We will also d
         - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
 
 
-**Week 2 (): The Command Line + Introduction to Git and Github**
+**Week 2 (9/13): The Command Line + Introduction to Git and Github**
 
 This week, we will learn the command line, which is a way of interacting with your computer without using your mousepad to complete tasks. For example, instead of manually creating a new folder, we will learn how to do that by typing a command. Knowing how to use the command line is an important first step towards learning how to program in Python. 
 
@@ -171,12 +171,13 @@ We will also learn how to use Github, which is an industry-standard tool for col
         - Tower: [The Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
         - Clay Cooper: [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 
-**Week 3 (): Python Basics**
-
-We will also get started with learning some basic Python commands. We will be using [Jupyter Notebooks](https://realpython.com/jupyter-notebook-introduction/), an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.
+**Week 3 (9/20): Python Basics**
+This week we are diving into Python basics! We will cover foundational concepts for data science in Python and become familiar with [Google Colab](https://colab.research.google.com/?utm_source=scs-index#scrollTo=qL_eyskFWx18), which will be our primary way of interacting with Python. 
 
 - Topics covered:
-    - 
+    - How to interact with Python?
+    - Defining variables, functions, lists, loops, comparisons, and conditionals
+    - Troubleshooting common errors
 - Curriculum for this session:
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
 - Assignments (due by 10am on the day of class):
@@ -185,28 +186,11 @@ We will also get started with learning some basic Python commands. We will be us
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)
         -  Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#)
+        -  Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
      
-
-**Week 4 (): Python Basics II**
-
-This week, we will continue our exploration of Python basics. 
-
-- Topics covered:
-    - Python basics
-    - How to become an an expert troubleshooter and why that is more important than learning how to write code from scratch as a beginner
-   
-- Curriculum for this session:
-    - Melanie Walsh, _Introduction to Cultural Analytics_, [Python Basics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html#) (Comparisons & Conditionals - [Files & Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/14-What-Were-Not-Covering.html))
-- Assignments (due by 10am on the day of class):
-
-
-- Additional readings/resources (not required, but useful!):
-    - Tutorials: 
-        - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (loops - objects)
-        - Datacamp: [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
       
 
-**Week 5 (): Principles of data analysis: Data Manipulation with Pandas**
+**Week 4 (9/27): Principles of data analysis: Data Manipulation with Pandas**
 
 This week, we will review the principles of data wrangling, cleaning, analysis, and visualization. Wrangling is the process of transforming data from a raw format into one that is legible. Cleaning entails making sure our data does not include inconsistencies such as duplicate entries or information stored in the wrong format. Analysis and visualizations are ways of telling a story with the data, and uncovering insights that may lead to new research questions. 
 
@@ -219,26 +203,19 @@ We will be using the Pandas Pythin library to help us achieve our data processin
     - Pandas basics
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to Pandas](https://gist.github.com/rskrisel/407561c530657f275dc728a753c784b0)
-      - Download dataset [here](https://drive.google.com/drive/folders/17cAPHux4ileepqNce_5FdYoQaopK3wO5)
-    
     
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
-- Final project deliverable:
-    - Schedule a meeting with me [here]() to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
-        - Towards Data Science: [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
-        - Deena Blumenkrantz: [Jupyter Notebook extensions and embedding a gist](https://medium.com/deena-does-data-science/jupyter-notebook-extensions-e6b57d004e8e)
-    - Cheat sheets:
-        - Max Melnick: [Jupyter Python Notebook Keyboard Shortcuts and Text Snippets for Beginners](https://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
+
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
         - Stack Abuse: [Guide to Data Visualization in Python with Pandas](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
         - Tableau: [Guide To Data Cleaning: Definition, Benefits, Components, And How To Clean Your Data](https://www.tableau.com/learn/articles/what-is-data-cleaning)
         - Towards Data Science: [4 Reasons Why Plotly Is The Best Visualization Library](https://towardsdatascience.com/4-reasons-why-plotly-is-the-best-visualization-library-18c27de05b95#:~:text=Compared%20to%20traditional%20visualization%20tools,your%20data%20before%20plotting%20it.)
 
-**Week 6 (): Principles of text analysis: Cleaning and processing text for analysis with the NLTK library**
+**Week 5 (10/4): Principles of text analysis: Cleaning and processing text for analysis with the NLTK library**
 
 This week, we will work with the Natural Language Toolkit (NLTK), a suite of Python libraries for processing and manipulating text-data. We will also review the necessary steps for cleaning and processing our text before we can analyze it by essentially converting each word in a text into an individual data point. 
 
@@ -250,9 +227,10 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Using Markdown in Jupyter Notebooks 
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
-    - Datacamp's [Markdown in Jupyter Notebook Tutorial](https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Final project deliverable:
+    - Schedule a meeting with me [here]() to discuss ideas for your final research project, if you are selecting the research project as your final assignment
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
@@ -262,7 +240,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
         - Digital Humanities at Yale University Library: [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
         - Boston College Library: [Text and Data Mining Projects](https://libguides.bc.edu/textdatamining/projects)
 
-**Week 7 (): Data collection: Web scraping with the Beautiful Soup library**
+**Week 6 (10/11): Data collection: Web scraping with the Beautiful Soup library**
 
 This week, we will use the Beautiful Soup Python library for web scraping. Web scraping is the process of extracting content and data from a website using a programming language. In this case, we will web scrape to extract text from websites. 
 
@@ -274,8 +252,6 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
     - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
-- Looking ahead:
-    - In week 9, we will work with the Twitter API. It can take a few weeks to get approved for a researcher account, so I suggest getting started now. Follow [these instructions](https://developer.twitter.com/en/products/twitter-api/academic-research/application-info) to apply!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Datacamp: [Scraping the Amazon Best Selling Books](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
@@ -284,7 +260,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
     - Explainers: 
         - AI Multiple: [Watch-outs for Legal and Ethical Web Scraping in 2022](https://research.aimultiple.com/web-scraping-ethics/#:~:text=Scraping%20publicly%20available%20information%20on,personally%20identifiable%20information%20(PII).)
 
-**Week 8 (): Data collection: Working with APIs**
+**Week 7 (10/18): Data collection: Working with APIs**
 
 This week, we will learn how to make data requests from an Application Programming Interface (API). APIs allow users to programmatically extract and interact with data under the hood of websites, social networks, applications, and projects. For example, the weather app on your phone connects to the weather bureau's API system, which contains daily weather data, and shows you daily weather updates. We will specifically work with the free version of News API for collecting news data. 
 
@@ -305,15 +281,8 @@ This week, we will learn how to make data requests from an Application Programmi
     - Cheat sheets:
         - Python for Beginners: [List of Python API's](https://www.pythonforbeginners.com/api/list-of-python-apis) 
 
-<br>
 
-
-<div align="center">**Fall break (# - #)**</div>
-
-<br>
-
-
-**Week 9 (): Data collection: Connecting to the YouTube API + connecting to other social media platform**
+**Week 8 (10/25): Data collection: Connecting to the YouTube API + connecting to other social media platform**
 
 This week, we will learn how to make data requests from the YouTube API. We will use the Pandas library to wrangle, clean, analyze, and visualize YouTube data. We will also discuss approaches for collecting other types of social media data, including TikTok, Instagram, Facebook, Reddit, and more. 
 
@@ -323,7 +292,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
-    - Rebecca Krisel, [Working with YouTube Data]()
+    - Rebecca Krisel, [Working with YouTube Data]() 
     - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
@@ -353,7 +322,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
         - Zeng, Jing, and Crystal Abidin. "'#OkBoomer, Time to Meet the Zoomers': Studying the Memefication of Intergenerational Politics on TikTok." _Information, Communication & Society_ 24, no. 16 (December 10, 2021): 2459–81.[ https://doi.org/10.1080/1369118X.2021.1961007](https://doi.org/10.1080/1369118X.2021.1961007).
             - This paper uses #OkBoomer memes on TikTok as a case study to examine the political culture of young people and Gen Z in particular. 
 
-**Week 10 (): Text analysis: Sentiment analysis with YouTube Comment Data**
+**Week 9 (11/1): Text analysis: Sentiment analysis with YouTube Comment Data**
 
 This week, we will learn how to perform a sentiment analysis using YouTube comment data. Sentiment analysis, also referred to as opinion mining, is a method for identifying the emotional tone behind a body of text. 
 
@@ -383,9 +352,9 @@ This week, we will learn how to perform a sentiment analysis using YouTube comme
         - Yu, Xiaoyan, Shiyong Wu, Wei Chen, and Mingxi Huang. "Sentiment Analysis of Public Opinions on the Higher Education Expansion Policy in China." _SAGE Open_ 11, no. 3 (July 1, 2021): 21582440211040776.[ https://doi.org/10.1177/21582440211040778](https://doi.org/10.1177/21582440211040778).
             - "This study looks at public opinions on the higher education expansion policy that was specifically implemented by China's government to navigate graduate employment difficulties against the impact of COVID-19."
 
-**Week 11 (): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
+**Week 10 (11/8): Text analysis: Term Frequency-Inverse Document Frequency (TF-IDF)**
 
-For our final course content week, we will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
+This week, wee will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
 
 - Topics covered: 
     - What is TF-IDF?
@@ -409,7 +378,7 @@ For our final course content week, we will learn about term frequency-inverse do
         - Mee, Alexander, Elmina Homapour, Francisco Chiclana, and Ofer Engel. "Sentiment Analysis Using TF-IDF Weighting of UK MPs' Tweets on Brexit" _Knowledge-Based Systems_ 228 (September 27, 2021): 107238.[ https://doi.org/10.1016/j.knosys.2021.107238](https://doi.org/10.1016/j.knosys.2021.107238).
             - This study uses TF-IDF and sentiment analysis to study UK MPs' Tweets on Brexit.
 
-**Week 12 (): Text analysis: Named Entity Recognition**
+**Week 11 (11/15): Text analysis: Named Entity Recognition**
 
 This week, we will learn how to apply Named Entity Recognition (NER) to text files. NER locates and classifies named entities mentioned in unstructured text into preset categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, and other categories. It's a useful way to quickly parse out the who, what, where, when, how much, etc… in a large body of text. We will use the spaCy Python library to perform NER. 
 
@@ -440,7 +409,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
         - Vychegzhanin, Sergey, and Evgeny Kotelnikov. "Comparison of Named Entity Recognition Tools Applied to News Articles." In _2019 Ivannikov Ispras Open Conference (ISPRAS)_, 72-77, 2019.[ https://doi.org/10.1109/ISPRAS47671.2019.00017](https://doi.org/10.1109/ISPRAS47671.2019.00017).
             - A review of different NER tools.
 
-**Week 13 (): Text analysis: Topic Modeling**
+**Week 12 (11/28): Text analysis: Topic Modeling**
 
 This week, we will learn how to use topic modeling to quickly parse out the primary topics across a collection of text files. Topic modeling can help ​​identify clusters of words that show up together in statistically meaningful ways throughout a corpus of text. We will use the Tomotopy Python library for topic modeling. 
 
@@ -476,16 +445,16 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
             * This study uses topic modeling to highlight which areas of public administration receive more attention than others. 
 
 
-**Week 14 ()**
+**Week 13 (12/6)**
 
 - Final projects due. 
-- Final project in class presentations.
+- Final project presentations
 
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment.
 
 **Exam Week**
-- Final exam date TBD
+- Final project presentations (Date TBD)
 
 ---
 <br>
