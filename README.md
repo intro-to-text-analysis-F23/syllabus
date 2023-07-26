@@ -10,7 +10,7 @@
 
 **Email:** [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu)
 
-**Class time:** Wednesdays 9:00 - 10:50
+**Class time:** Wednesdays 9:00 - 10:50am
 
 **Office hours:** By appointment only - schedule here
 
