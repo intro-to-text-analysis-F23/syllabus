@@ -292,7 +292,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
-    - Rebecca Krisel, [Working with YouTube Data]() 
+    - Rebecca Krisel, [Working with YouTube Data]() TBD
     - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
@@ -332,7 +332,7 @@ This week, we will learn how to perform a sentiment analysis using YouTube comme
     - How to perform sentiment analysis with YouTube data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
+    - Rebecca Krisel, [Sentiment Analysis Workshop]TBD
     
 - Assignments (due by 10am on the day of class):
     - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
