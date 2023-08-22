@@ -12,7 +12,7 @@
 
 **Class time:** Wednesdays 9:00 - 10:50am
 
-**Office hours:** By appointment only - schedule here
+**Office hours:** On Zoom: Tuesdays 9:00 - 11:00 am or by appointment - schedule [here](https://calendly.com/rsk2160/office-hour) / Wednesdays in-person after class. Please email me in advance. 
 
 
 ---
@@ -64,8 +64,6 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 **Assignments:**
 
-
-
 Homework assignments:
 - There are 11 homework assignments, each worth 10 points. I will drop your lowest grade, so just 10 assignments will count towards your final grade. **Week 4 assignment is mandatory** 
 - **Each homework assignment is due by 10am before the start of class**. 
@@ -76,7 +74,6 @@ Homework assignments:
 <br> 
 Final research project:
 <br> 
-
 
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
@@ -91,7 +88,7 @@ For the final research project, you will pair a method of data collection with a
 
 **Grading structure:**
 
-- Class participation 10%
+- Class participation 10% (measured based on attendance and participation in class)
 - Homework assignments 40%
 - Research project 50%
 
@@ -103,7 +100,7 @@ Bringing a laptop computer to class is a requirement for this course.
 
 
 ## Class Slack Space
-To facilitate communication, I created this [Slack space](). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
+To facilitate communication, I created this [Slack space](https://join.slack.com/t/slack-43z4737/shared_invite/zt-21s9xd0b7-UBCV~g5qZzIqlGYg69AD2Q). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
 <br>
 
 I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class time** to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. You may also post troubleshooting questions in the #general channel outside of class sessions. I will check the Slack channel at least once a day. 
@@ -230,7 +227,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Final project deliverable:
-    - Schedule a meeting with me [here]() to discuss ideas for your final research project, if you are selecting the research project as your final assignment
+    - Schedule a meeting with me [here](https://calendly.com/rsk2160/final-projects?month=2023-10) to discuss ideas for your final research project
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
