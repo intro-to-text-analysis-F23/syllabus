@@ -223,7 +223,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Basic text analysis tools
     - Using Markdown in Jupyter Notebooks 
 - Curriculum for this session:
-    - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
+    - Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/Intro_NLTK_workshop.ipynb)
 - Assignments (due by 10am on the day of class):
    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
 - Final project deliverable:
