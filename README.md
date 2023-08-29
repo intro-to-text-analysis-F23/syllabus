@@ -51,6 +51,8 @@ It is also recommended to review the additional readings/resources provided in t
 
 **Attendance policy:** Your class attendance is mandatory. Failure to properly inform me of a foreseen or unforeseen conflict before class time will result in a diminished participation grade. SIPA no longer offers a Zoom option for class.
 
+**Generative AI Statement:** While generative AI platforms like ChatGPT can be helpful learning tools, especially for beginner level coders. For this reason, we will ask use the tools in the classroom.  That being said, the AI platforms can frequently produce incorrect code scripts. For this reason, it is imperative that you learn how to properly read code. Since I cannot control for your use of generative AI tools outside of the classroom, all graded work (expect for your final projects) will be done in class. We will also review the proper way to cite when you use AI tools. I will not penalize you for using these tools to help with writing your projects, as long as you are honest about it. 
+
 **Required materials for purchase:** Bringing a laptop computer to class is a requirement. There are no additional materials for purchase required for this course.  
 <br>
 
@@ -64,12 +66,17 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 **Assignments:**
 
-Homework assignments:
-- There are 11 homework assignments, each worth 10 points. I will drop your lowest grade, so just 10 assignments will count towards your final grade. **Week 4 assignment is mandatory** 
-- **Each homework assignment is due by 10am before the start of class**. 
-    - Due week 4: 
-        - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)
-    - Due weeks 5 - 14: Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+Homework:
+- Due week 3 (20 points): 
+  - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)
+
+In-class quizzes:
+- We will have 5 in-class, hand-written quizzes throughout the semester each worth 20 points. I will drop the lowest grade:
+    - Week 4 (testing material from weeks 2 & 3)
+    - Week 6 (testing material from weeks 4 & 5)
+    - Week 8 (testing material from weeks 6 & 7)
+    - Week 10 (testing material from weeks 8 & 9)
+    - Week 12 (testing material from week 10 & 11)
    
 <br> 
 Final research project:
@@ -79,9 +86,9 @@ For the final research project, you will pair a method of data collection with a
 
 - Final project deliverables and grade distribution: 
     - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
-    - Due week 8 (25 points): Project proposal **due by 10am before the start of class.**
-    - Due week 13 (65 points): Final project **due by 10am before the start of class.**
-    - Due week 13/14 (5 points): In-class project presentations. 
+    - Due week 8 (15 points): Project proposal **due by 10am before the start of class.**
+    - Due week 13 (60 points): Final project **due by 10am before the start of class.**
+    - Due week 13/14 (20 points): In-class project presentations. 
 
      <br>
 
@@ -89,7 +96,7 @@ For the final research project, you will pair a method of data collection with a
 **Grading structure:**
 
 - Class participation 10% (measured based on attendance and participation in class)
-- Homework assignments 40%
+- Homework/quiz assignments 40%
 - Research project 50%
 
 <br>
@@ -155,8 +162,6 @@ We will also learn how to use Github, which is an industry-standard tool for col
 - Curriculum for this session:
     - Django Girls, ["Introduction to the command-line interface"](https://tutorial.djangogirls.org/en/intro_to_command_line/)
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
-- Assignments (due by 10am on the day of class): 
-    - No assignments this week!
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
@@ -200,9 +205,7 @@ We will be using the Pandas Pythin library to help us achieve our data processin
     - Pandas basics
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to Pandas](https://gist.github.com/rskrisel/407561c530657f275dc728a753c784b0)
-    
-- Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Quiz this week covering materials from weeks 2 & 3
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
 
@@ -224,8 +227,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Using Markdown in Jupyter Notebooks 
 - Curriculum for this session:
     - Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/Intro_NLTK_workshop.ipynb)
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- No quiz this week! 
 - Final project deliverable:
     - Schedule a meeting with me [here](https://calendly.com/rsk2160/final-projects?month=2023-10) to discuss ideas for your final research project
 - Additional readings/resources (not required, but useful!):
@@ -247,8 +249,7 @@ This week, we will use the Beautiful Soup Python library for web scraping. Web s
     - How to web scrape?
 - Curriculum for this session:
     - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
-- Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Quiz this week covering material from weeks 4 & 5 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Datacamp: [Scraping the Amazon Best Selling Books](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
@@ -268,8 +269,7 @@ This week, we will learn how to make data requests from an Application Programmi
 - Curriculum for this session:
     - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
     - Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- No quiz this week! 
 - Final project deliverable:
     - Project proposals due
 - Additional readings/resources (not required, but useful!):
@@ -291,8 +291,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
 -  Curriculum for this session:
     - Rebecca Krisel, [Working with YouTube Data]() TBD
     - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
-- Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Quiz this week covering material from weeks 6 & 7 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:  
         - Collecting data from other social media platforms:
@@ -331,8 +330,7 @@ This week, we will learn how to perform a sentiment analysis using YouTube comme
 - Curriculum for this session:
     - Rebecca Krisel, [Sentiment Analysis Workshop]TBD
     
-- Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
@@ -360,8 +358,7 @@ This week, wee will learn about term frequency-inverse document frequency, often
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [TF-IDF with Scikit-Learn](https://github.com/rskrisel/tf-idf/blob/main/README.md). Copied from Melanie Walsh's [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html). A few code updates were made to reflect the newest versions of Scikit-learn and Pandas. 
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Quiz this week covering material from weeks 8 & 9 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
@@ -386,8 +383,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [NER Workshop](https://github.com/rskrisel/NER_workshop)
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Named Entity Recognition](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/12-Named-Entity-Recognition.html)
@@ -417,8 +413,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [Topic Modeling with Tomotopy](https://github.com/rskrisel/topic_modeling_workshop). Copied from Melanie Walsh's [Topic Modeling with Tomotopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html), but uses a different dataset.
-- Assignments (due by 10am on the day of class):
-   - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment. 
+- Quiz this week covering material from weeks 10 & 11
 - Additional readings/resources (not required, but useful!):
     - Explainers:
         - Evans School Policy Analysis & Research Group (EPAR), University of Washington: [Guide to Topic Modeling for Qualitative Research – Building the Model (Part 1)](https://epar.evans.uw.edu/blog/guide-topic-modeling-qualitative-research-building-model-part-1)
@@ -444,14 +439,13 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
 
 **Week 13 (12/6)**
 
-- Final projects due. 
 - Final project presentations
 
-- Assignments (due by 10am on the day of class):
-    - Complete weekly assignment, which will be shared weekly on Fridays by 12pm via GitHub classroom. The weekly assignments will ask you to annotate code to explain what the code is doing, and identify errors in the code by troubleshooting it. Share the resources you found to help you explain the code and/or work through the errors. You may work in groups up to four students, but please make sure to note this on your homework assignment.
+
 
 **Exam Week**
 - Final project presentations (Date TBD)
+- Final projects due (Date TBD)
 
 ---
 <br>
@@ -465,3 +459,4 @@ The School of International & Public Affairs does not tolerate cheating and/or p
 **Violations of the Code of Academic & Professional Conduct will be immediately reported to the Associate Dean for Student Affairs.**
 
 **SIPA Disability Statement:** SIPA is committed to ensuring that students registered with Columbia University's [Disability Services](https://health.columbia.edu/services/ods) (DS) receive the reasonable accommodations necessary for their full participation in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with the course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters.  If you have any additional questions, please contact SIPA’s DS liaison at disability@sipa.columbia.edu and/or 212-854-8690.
+
