@@ -47,7 +47,7 @@ For each weekly session, a link to the curriculum is provided in the class sched
 
 It is also recommended to review the additional readings/resources provided in the class schedule to deepen your understanding of the concepts and to find examples for how these methods are used in practical/research settings. 
 
-**Respecting your peers:** As participants in a beginner's Python course, you will be learning a new skill and language. For some, this may come easily. For others, it may take longer for the material to click. Let's respect each other's differing abilities to grasp this complex new world of programming and help each other out by problem-solving together. To this end, I encourage you to work in groups for the homework assignments and share resources with one another!
+**Respecting your peers:** As participants in a beginner's Python course, you will be learning a new skill and language. For some, this may come easily. For others, it may take longer for the material to click. Let's respect each other's differing abilities to grasp this complex new world of programming and help each other out by problem-solving together. 
 
 **Attendance policy:** Your class attendance is mandatory. Failure to properly inform me of a foreseen or unforeseen conflict before class time will result in a diminished participation grade. SIPA no longer offers a Zoom option for class.
 
