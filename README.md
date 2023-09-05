@@ -88,7 +88,7 @@ For the final research project, you will pair a method of data collection with a
     - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
     - Due week 8 (15 points): Project proposal **due by 10am before the start of class.**
     - Due week 13 (60 points): Final project **due by 10am before the start of class.**
-    - Due week 13/14 (20 points): In-class project presentations. 
+    - Due week 13/14 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions) 
 
      <br>
 
