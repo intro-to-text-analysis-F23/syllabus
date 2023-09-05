@@ -138,13 +138,6 @@ This week, we will review the syllabus and the course objectives. We will also d
     - Using GitHub & GitHub classroom
     - Final projects
 
-- Requirement in two steps: 
-    - Due by Friday  at 11:59pm:
-        - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-        - Accept [this dummy assignment](https://classroom.github.com/a/ImDJRwfh) so I can add you to our GitHub organization
-    - Due by Sunday at 11:59pm:
-        - Follow [these instructions](https://docs.google.com/document/d/1M1xBtDvcX5c5zt1VHJ1Kkv7fA-0aA0m4o3BJq11Bg2o/edit#heading=h.7j3oee9q53i) to accept the invitation to join our GitHub organization (I will send you an invitation on Saturday 1/21)
-
 
 **Week 2 (9/13): The Command Line + Introduction to Git and Github**
 
@@ -183,6 +176,7 @@ This week we are diving into Python basics! We will cover foundational concepts 
 - Curriculum for this session:
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
 - Assignments (due by 10am on the day of class):
+    - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
     - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
