@@ -135,7 +135,6 @@ This week, we will review the syllabus and the course objectives. We will also d
     - What are some practical applications of text analysis in Python?
     - Course structure and objectives
     - Getting the most out of this class
-    - Using GitHub & GitHub classroom
     - Final projects
 
 
