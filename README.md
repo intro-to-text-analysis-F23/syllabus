@@ -68,7 +68,7 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 Homework:
 - Due week 3 (20 points): 
-  - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)
+  - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx) (see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
 
 In-class quizzes:
 - We will have 5 in-class, hand-written quizzes throughout the semester each worth 20 points. I will drop the lowest grade:
@@ -177,7 +177,7 @@ This week we are diving into Python basics! We will cover foundational concepts 
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
 - Assignments (due by 10am on the day of class):
     - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG)
+    - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG) (see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)
