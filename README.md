@@ -136,6 +136,8 @@ This week, we will review the syllabus and the course objectives. We will also d
     - Course structure and objectives
     - Getting the most out of this class
     - Final projects
+ 
+*Important: Please complete this [class survey](https://docs.google.com/forms/d/1mzVC821XtZy5I9UkuehdhOaadFm31Y06GrS5vgV64o8/edit)*
 
 
 **Week 2 (9/13): The Command Line + Introduction to Git and Github**
