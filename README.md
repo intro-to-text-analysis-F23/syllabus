@@ -85,7 +85,7 @@ Final research project:
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
-    - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by 10am before the start of class (the meeting can happen later that week, if needed).**
+    - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
     - Due week 8 (15 points): Project proposal **due by 10am before the start of class.**
     - Due week 13 (60 points): Final project **due by 10am before the start of class.**
     - Due week 13/14 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions) 
@@ -175,7 +175,7 @@ This week we are diving into Python basics! We will cover foundational concepts 
     - Troubleshooting common errors
 - Curriculum for this session:
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
-- Assignments (due by 10am on the day of class):
+- Assignments (due by 9:00 am on the day of class):
     - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
     - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/6jKjo7hG) (see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
 - Additional readings/resources (not required, but useful!):
@@ -201,8 +201,6 @@ We will be using the Pandas Pythin library to help us achieve our data processin
     - Rebecca Krisel's [Intro to Pandas](https://gist.github.com/rskrisel/407561c530657f275dc728a753c784b0)
 - Quiz this week covering materials from weeks 2 & 3
 - Additional readings/resources (not required, but useful!):
-    - Tutorials:
-
     - Explainers: 
         - Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)
         - Stack Abuse: [Guide to Data Visualization in Python with Pandas](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
