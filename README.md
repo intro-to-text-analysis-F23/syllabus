@@ -85,7 +85,7 @@ Final research project:
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
-    - Due week 5 (5 points): Schedule a meeting with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
+    - Due week 5 (5 points): [Schedule a meeting](https://calendly.com/rsk2160/office-hour) with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
     - Due week 8 (15 points): Project proposal **due by 10am before the start of class.**
     - Due week 13 (60 points): Final project **due by 10am before the start of class.**
     - Due week 13/14 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions) 
@@ -223,7 +223,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     - Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/Intro_NLTK_workshop.ipynb)
 - No quiz this week! 
 - Final project deliverable:
-    - Schedule a meeting with me [here](https://calendly.com/rsk2160/final-projects?month=2023-10) to discuss ideas for your final research project
+    - Schedule a meeting with me [here](https://calendly.com/rsk2160/office-hour) to discuss ideas for your final research project
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
