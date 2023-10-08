@@ -313,9 +313,9 @@ This week, we will learn how to make data requests from the YouTube API. We will
         - Zeng, Jing, and Crystal Abidin. "'#OkBoomer, Time to Meet the Zoomers': Studying the Memefication of Intergenerational Politics on TikTok." _Information, Communication & Society_ 24, no. 16 (December 10, 2021): 2459–81.[ https://doi.org/10.1080/1369118X.2021.1961007](https://doi.org/10.1080/1369118X.2021.1961007).
             - This paper uses #OkBoomer memes on TikTok as a case study to examine the political culture of young people and Gen Z in particular. 
 
-**Week 9 (11/1): Text analysis: Sentiment analysis with YouTube Comment Data**
+**Week 9 (11/1): Text analysis: Sentiment analysis with Social Media Data**
 
-This week, we will learn how to perform a sentiment analysis using YouTube comment data. Sentiment analysis, also referred to as opinion mining, is a method for identifying the emotional tone behind a body of text. 
+This week, we will learn how to perform a sentiment analysis using social media data, including Twitter and Youtube comments. Sentiment analysis, also referred to as opinion mining, is a method for identifying the emotional tone behind a body of text. 
 
 - Topics covered: 
     - What is sentiment analysis?
@@ -324,6 +324,7 @@ This week, we will learn how to perform a sentiment analysis using YouTube comme
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
+    - Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)
     
 - No quiz this week 
 - Additional readings/resources (not required, but useful!):
