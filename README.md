@@ -283,8 +283,8 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
-    - Rebecca Krisel, [Working with YouTube Data]() TBD
-    - Geeks for Geeks's [Python Plotly tutorial]([https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners/notebook](https://www.geeksforgeeks.org/python-plotly-tutorial/))
+    - Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
+    - Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)
 - Quiz this week covering material from weeks 6 & 7 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:  
