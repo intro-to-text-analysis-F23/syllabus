@@ -347,6 +347,17 @@ This week, we will learn how to perform a sentiment analysis using social media 
 
 This week, wee will learn about term frequency-inverse document frequency, often abbreviated TF-IDF. TF-IDF is a text analysis method that builds off word frequency but it more specifically tries to identify the most distinctively frequent and significant words.
 
+I asked ChatGPT to explain TF-IDF to an 8th grade level student, and this is what I got:
+"Imagine you have a big bag of words from a bunch of documents, like books, articles, or websites. TF-IDF is like a tool that helps you figure out which words are important in those documents.
+
+TF stands for "Term Frequency," and it tells you how many times a word appears in a document. So, if you see the word "cat" 5 times in a document, the TF for "cat" in that document is 5.
+
+IDF stands for "Inverse Document Frequency," and it tells you how important a word is across all the documents. If a word is super common, like "the" or "and," it's not very special, so its IDF is low. But if a word is less common, like "zebra" or "astronaut," it's more special, so its IDF is high.
+
+Now, when you multiply the TF and IDF together for a word in a document, you get the TF-IDF score for that word in that document. If a word has a high TF-IDF score, it means it's important in that document. If it has a low score, it's not very important.
+
+So, TF-IDF helps you find the important words in a document by considering how often they appear in that document and how special they are across all the documents. It's like a way to pick out the key words that tell you what a document is really about."
+
 - Topics covered: 
     - What is TF-IDF?
     - What are practical applications of TF-IDF?
