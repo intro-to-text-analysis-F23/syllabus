@@ -107,7 +107,7 @@ Bringing a laptop computer to class is a requirement for this course.
 
 
 ## Class Slack Space
-To facilitate communication, I created this [Slack space](https://join.slack.com/t/slack-43z4737/shared_invite/zt-21s9xd0b7-UBCV~g5qZzIqlGYg69AD2Q). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
+To facilitate communication, I created this [Slack space](https://join.slack.com/t/f23sipatextan-fvk1391/shared_invite/zt-24v1q2u0y-jyvLgR4Sz~U3GF9VfxTYvQ). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
 <br>
 
 I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class time** to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. You may also post troubleshooting questions in the #general channel outside of class sessions. I will check the Slack channel at least once a day. 
