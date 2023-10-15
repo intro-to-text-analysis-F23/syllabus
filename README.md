@@ -264,8 +264,6 @@ This week, we will learn how to make data requests from an Application Programmi
     - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
     - Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)
 - No quiz this week! 
-- Final project deliverable:
-    - Project proposals due
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh,_ Introduction to Cultural Analytics_, [Application Programming Interfaces (APIs)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/05-What-Is-API.html)
@@ -286,7 +284,9 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
     - Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)
     - Geeks for Geeks, [How to Extract YouTube Comments Using Youtube API – Python](https://www.geeksforgeeks.org/how-to-extract-youtube-comments-using-youtube-api-python/)
-- Quiz this week covering material from weeks 6 & 7 
+- Quiz this week covering material from weeks 6 & 7
+- Final project deliverable:
+  - Project proposals due
 - Additional readings/resources (not required, but useful!):
     - Tutorials:  
         - Collecting data from other social media platforms:
