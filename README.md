@@ -86,9 +86,9 @@ For the final research project, you will pair a method of data collection with a
 
 - Final project deliverables and grade distribution: 
     - Due week 5 (5 points): [Schedule a meeting](https://calendly.com/rsk2160/office-hour) with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
-    - Due week 8 (15 points): Project proposal **due by 10am before the start of class.**
-    - Due week 13 (60 points): Final project **due by 10am before the start of class.**
-    - Due week 13/14 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions) 
+    - Due week 8 (15 points): Project proposal 
+    - Due  12/6 or 12/20 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions)
+    - Due 12/20 at 9:00am: Final project
 
      <br>
 
@@ -281,6 +281,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
+    - Rebecca Krise/ChatGPT, [Extracting Youtube Comments](https://chat.openai.com/share/290c2c82-a05d-405c-a2ce-a182eae074eb)
     - Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
     - Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)
     - Geeks for Geeks, [How to Extract YouTube Comments Using Youtube API – Python](https://www.geeksforgeeks.org/how-to-extract-youtube-comments-using-youtube-api-python/)
@@ -451,8 +452,8 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
 
 
 **Exam Week**
-- Final project presentations (Date TBD)
-- Final projects due (Date TBD)
+- Final project presentations 12/20, 9:00am - 12:00pm, IAB 413
+- Final projects due, 12/20, 9:00am
 
 ---
 <br>
