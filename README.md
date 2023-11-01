@@ -366,7 +366,7 @@ So, TF-IDF helps you find the important words in a document by considering how o
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [TF-IDF with Scikit-Learn](https://github.com/rskrisel/tf-idf/blob/main/README.md). Copied from Melanie Walsh's [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html). A few code updates were made to reflect the newest versions of Scikit-learn and Pandas. 
-- Quiz this week covering material from weeks 8 & 9 
+- Quiz this week covering material from quizzes 1 -3 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Melanie Walsh, _Introduction to Cultural Analytics_, [TF-IDF Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/01-TF-IDF.html) & [TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html)
